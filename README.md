@@ -1,4 +1,4 @@
-# m5demo — the churn scoring bundle with its tests
+# [v2] m5demo — the churn scoring bundle with its tests
 
 The runnable example for Module 5 and the finished state of Challenges 2 to 5. It
 is both the instructor's demo bundle and the catch-up artefact: a participant who
