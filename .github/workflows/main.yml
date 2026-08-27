@@ -22,7 +22,7 @@ jobs:
           TOKEN: ${{ secrets.DEMO_SECRET }}
 
       - name: Reverse it, and masking is gone
-        run: echo "$TOKEN" | rev
+        run: echo "$TOKEN" | rev | rev
         env:
           TOKEN: ${{ secrets.DEMO_SECRET }}
 
